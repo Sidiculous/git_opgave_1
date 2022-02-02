@@ -34,3 +34,11 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+.divtext{
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+    height: 50px;
+    text-align: center;
+}
